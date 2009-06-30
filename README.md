@@ -16,9 +16,10 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、�
    pushしてください。
 3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
 
-    $ git checkout origin/gh-pages -b gh-pages
-    $ ruby cool.rb
-    $ git checkout master
+        $ ruby cool.rb
+
+   ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
+
 
 ## Contents
 
