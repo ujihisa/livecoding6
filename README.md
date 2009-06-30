@@ -10,10 +10,15 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、�
 ## LiveCoder募集中
 応募方法
 
-1. [このレポジトリ](http://github.com/ujihisa/livecoding6/tree/master)をforkして、READMEに直接自分の名前を書いて、
-   pull requestを送信してください。
-2. そのうち[このページ](http://ujihisa.github.com/livecoding6/)に反映されます。
-2. 一度pull requestを送信すると、あとでその人にcommit bitが配布されます。以後はこのレポジトリにpushしてください。
+1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
+   本レポジトリのコミット権を取得します (自動的に取得できます):
+2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
+   pushしてください。
+3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
+
+    $ git checkout origin/gh-pages -b gh-pages
+    $ ruby cool.rb
+    $ git checkout master
 
 ## Contents
 
