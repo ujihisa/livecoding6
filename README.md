@@ -23,7 +23,8 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、�
 
 ## Contents
 
-* *Sample Live Coding* with [ujihisa](http://ujihisa.blogspot.com/)
+* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+    * 最強のWebシステム開発環境と言わざるを得ない
     * Powered by Vim, Ruby, Mac OS X and MacBook Air
 * *Title* with [name](uri)
     * Powered by Something
