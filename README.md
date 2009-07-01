@@ -28,3 +28,8 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、�
     * Powered by Vim, Ruby, Mac OS X and MacBook Air
 * *Title* with [name](uri)
     * Powered by Something
+
+
+### 補足
+* LiveCoderは参加費が無料になる恐れがあります
+* LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
