@@ -1,5 +1,10 @@
 # LiveCoding#6
 
+<div id="path">
+<b><a href="/ujihisa/livecoding6/tree">livecoding6</a></b> / Commit History
+<a href="http://github.com/feeds/ujihisa/commits/livecoding6/master"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for ujihisa/livecoding6 at master" /></a>
+</div>
+
 ## 概要
 * 2009-07-11 (Sat) 5:30pm開場 6:30pm開演
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
