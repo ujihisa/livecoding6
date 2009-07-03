@@ -7,6 +7,24 @@
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
 
+## LiveCoder募集中
+応募方法
+
+1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
+   本レポジトリのコミット権を取得します (自動的に取得できます):
+2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
+   pushしてください。
+3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
+
+        $ ruby cool.rb
+
+   ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
+
+## 一般参加方法
+LiveCoderにならない予定の方は以下のフォームから申し込みください。
+
+<http://cotocoto.jp/event/30597>
+
 ## 詳しく
 一人の"LiveCoder"が、20分の制限時間で何かソフトウェアを作り、デモをします。
 LiveCoderがどのようにコーディングしているかの全てがプロジェクターで大画面に映し出され、
@@ -26,20 +44,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
 
-## LiveCoder募集中
-応募方法
-
-1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
-   本レポジトリのコミット権を取得します (自動的に取得できます):
-2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
-   pushしてください。
-3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
-
-        $ ruby cool.rb
-
-   ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
-
-
 ## Contents
 
 * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
@@ -48,14 +52,15 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * *Title* with [name](uri)
     * Powered by Something
 
+他にも、あの人やこの人が参加します!
+
 ## Google Android Hackathon
 * LiveCodingのあとで、そのまま次の日の朝まで同会場でGoogle Android携帯のアプリケーション開発Hackathonを行ないます。
 
 
 ### 補足
 * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
-* LiveCoderは参加費が無料になる恐れがあります
-* LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
+* LiveCoderは参加費が無料あるいは格安になります。
 
 ----
 # LiveCoding#6
@@ -67,6 +72,12 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
 It is amusing that we watch a super technique of a great hacker rowdy.
+
+## REGISTRATION
+
+Input the following form:
+
+<http://cotocoto.jp/event/30597>
 
 ## DETAIL
 A "LiveCoder" creates a new software within 20 minutes, and demonstrates it.
