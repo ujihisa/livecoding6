@@ -13,7 +13,9 @@ LiveCoderがどのようにコーディングしているかの全てがプロ�
 さらに解説役が常にLiveCoderの挙動を説明します。
 
 > A 「コンパイル中です・・・、お、おおお、なんと、Syntax error!」
+>
 > B 「これは恥ずかしい…」
+>
 > LiveCoder 「(/// 」
 
 LiveCoderが何を作るかについては、自分で決めた上でそれをLiveCoding前に告知します。
