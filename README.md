@@ -56,3 +56,42 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
 * LiveCoderは参加費が無料になる恐れがあります
 * LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
+
+----
+# LiveCoding#6
+
+## SUMMARY
+* July 11, 2009 (Sat) Opens at 5:30pm and Starts at 6:30pm
+* [Kyoto Nishijin Machiya Studio](http://nishi-jin.net/) (in Japanese)
+* Fee: About 3,000 yen
+
+LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+It is amusing that we watch a super technique of a great hacker rowdy.
+
+## DETAIL
+A "LiveCoder" creates a new software within 20 minutes, and demonstrates it.
+How the LiveCoder is coding is completely going on screen with a projector.
+And "Play-by-Play commentaries" are always explaining what he/she is doing.
+
+> A: She is compiling it... Wow! Syntax error has occurred!
+>
+> B: LOL
+>
+> LiveCoder: (///
+
+<!--
+STUB
+-->
+
+## CONTENTS
+* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+    * Powered by Vim, Ruby, Mac OS X and MacBook Air
+* *Title* with [name](uri)
+    * Powered by Something
+
+<!--
+STUB
+## CALL FOR LIVECODERS
+## Google Android Hackathon
+### NOTES
+-->
