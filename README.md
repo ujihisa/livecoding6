@@ -54,6 +54,15 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
     * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
     * Powered by Vim, Ruby, Mac OS X and MacBook Air
+
+* *大学の演習，回答求む?* with [木本](http://d.hatena.ne.jp/ryutorion/)
+    * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
+    * Powered by Vim, C, Windows XP Pro and Let's note
+
+<!--
+* *未定* with [Imo](http://fbox.info/)
+-->
+
 * *Title* with [name](uri)
     * Powered by Something
 
@@ -68,6 +77,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * LiveCoderは参加費が無料あるいは格安になります。
 
 ----
+
 # LiveCoding#6
 
 ## SUMMARY
@@ -101,7 +111,11 @@ STUB
 
 ## CONTENTS
 * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+    * The ultimate web application platform Sinatra/Google App Engine for Java/JRuby
     * Powered by Vim, Ruby, Mac OS X and MacBook Air
+* *Wanted: The Answer of my Assignment* with [Kimoto](http://d.hatena.ne.jp/ryutorion/)
+    * There are few hours to submit my report. Does it make on time while I've never got going. Get a unit or repeat the course.
+    * Powered by Vim, C, Windows XP Pro and Let's note
 * *Title* with [name](uri)
     * Powered by Something
 
