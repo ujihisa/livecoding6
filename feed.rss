@@ -10,8 +10,65 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>60a98e5bc82090027f502c03bbb377be958995bb</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Fixed expressions a little
+
+diff --git a/README.md b/README.md
+index 989a2d3..f4fd789 100644
+--- a/README.md
++++ b/README.md
+@@ -1,12 +1,11 @@
+ # LiveCoding#6
+ 
+ &lt;div id=&quot;path&quot;&gt;
+-&lt;b&gt;&lt;a href=&quot;/ujihisa/livecoding6/tree&quot;&gt;livecoding6&lt;/a&gt;&lt;/b&gt; / Commit History
+-&lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+ ## 概要
+-* 2009-07-11 (Sat) 5:30pm開場 6:30pm開演
++* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費3000円ぐらい (飲食込み)
+ 
+@@ -25,6 +24,8 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 
+    ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
+ 
++なお、LiveCoderは参加費が無料あるいは格安になります。
++
+ ## 一般参加方法
+ LiveCoderにならない予定の方は以下のフォームから申し込みください。
+ 
+@@ -74,7 +75,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ### 補足
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+-* LiveCoderは参加費が無料あるいは格安になります。
+ 
+ ----
+ 
+@@ -94,7 +94,7 @@ Input the following form:
+ 
+ &lt;http://cotocoto.jp/event/30597&gt;
+ 
+-## DETAIL
++## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+ How the LiveCoder is coding is completely going on screen with a projector.
+ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+
+</pre>]]></description>
+      <pubDate>Sun Jul 05 20:52:01 +0900 2009</pubDate>
+      <dc:date>Sun Jul 05 20:52:01 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>4747ee17f21bca02aa91d332a91c5d5725e62c72</title>
-      <link>4747ee17f21bca02aa91d332a91c5d5725e62c72</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Use feed.rss
 
@@ -36,7 +93,7 @@ index f60f10b..989a2d3 100644
     
     <item>
       <title>51b1ee75828bb2745e0ff44e6fa8da98e82dbd93</title>
-      <link>51b1ee75828bb2745e0ff44e6fa8da98e82dbd93</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added Kimoto's LiveCoding
 
@@ -88,7 +145,7 @@ index 173851f..f60f10b 100644
     
     <item>
       <title>49e8dbb141cc69739bc3b2a9f90502344f3288bb</title>
-      <link>49e8dbb141cc69739bc3b2a9f90502344f3288bb</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added RSS
 
@@ -115,7 +172,7 @@ index f4cb4ac..173851f 100644
     
     <item>
       <title>a0926d4c2d1e61250bb37bf592d9c6d49f80551a</title>
-      <link>a0926d4c2d1e61250bb37bf592d9c6d49f80551a</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added registration part
 
@@ -208,7 +265,7 @@ index 43345bf..f4cb4ac 100644
     
     <item>
       <title>8578e2dfb19678908646ea32c94c0499676984ab</title>
-      <link>8578e2dfb19678908646ea32c94c0499676984ab</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added English Translation
 
@@ -267,7 +324,7 @@ index 9d11bb2..43345bf 100644
     
     <item>
       <title>a7fb6705c6f82c5778e9e2b4af790be3d5c1e58e</title>
-      <link>a7fb6705c6f82c5778e9e2b4af790be3d5c1e58e</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Fix layout
 
@@ -293,7 +350,7 @@ index d877401..9d11bb2 100644
     
     <item>
       <title>46bc900c95cce285625bc2fc9e156364d6cdd94b</title>
-      <link>46bc900c95cce285625bc2fc9e156364d6cdd94b</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added details of Livecoding
 
@@ -333,7 +390,7 @@ index 7240425..d877401 100644
     
     <item>
       <title>abd463f8a111001e0ac628d44f5100cb8ae0b3a2</title>
-      <link>abd463f8a111001e0ac628d44f5100cb8ae0b3a2</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Fixed
 
@@ -376,7 +433,7 @@ index c35cd84..7240425 100644
     
     <item>
       <title>d240b6e1080f71ab559ef3a9a6df9676eb820c50</title>
-      <link>d240b6e1080f71ab559ef3a9a6df9676eb820c50</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added note
 
@@ -401,7 +458,7 @@ index 7e9c011..c35cd84 100644
     
     <item>
       <title>bb8f2db90ecefd049e4bb05c825fa0e0764b9791</title>
-      <link>bb8f2db90ecefd049e4bb05c825fa0e0764b9791</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added my livecoding
 
@@ -427,7 +484,7 @@ index 94a74d2..7e9c011 100644
     
     <item>
       <title>f153cf58dfc96db7a5345deec206db9deff28563</title>
-      <link>f153cf58dfc96db7a5345deec206db9deff28563</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Added note for pandoc
 
@@ -455,7 +512,7 @@ index 7fd0f91..94a74d2 100644
     
     <item>
       <title>13433ee18f44e754c1468c7ec1014d8829377b2b</title>
-      <link>13433ee18f44e754c1468c7ec1014d8829377b2b</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Simple task
 
@@ -481,7 +538,7 @@ index cf75a37..7fd0f91 100644
     
     <item>
       <title>6f1c27b24d364afa7ef341e24aac6487796af01a</title>
-      <link>6f1c27b24d364afa7ef341e24aac6487796af01a</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Fixed how to join
 
@@ -517,7 +574,7 @@ index aa4741d..cf75a37 100644
     
     <item>
       <title>5bc9de45d7b69d872264dd53fb8da7abaaaccd37</title>
-      <link>5bc9de45d7b69d872264dd53fb8da7abaaaccd37</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     Fixed contents
 
@@ -549,7 +606,7 @@ index ddd312a..aa4741d 100644
     
     <item>
       <title>bc37bd60bb7225ae3d18692d2718b20c2fcbc43d</title>
-      <link>bc37bd60bb7225ae3d18692d2718b20c2fcbc43d</link>
+      <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
     rename
 
