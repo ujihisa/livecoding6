@@ -22,7 +22,7 @@ hashes = gl.map {|commit|
   desc = CGI.escapeHTML(commit.join)
   {
     :title => hash[:commit],
-    :link => hash[:commit],
+    :link => "http://ujihisa.github.com/livecoding6/",
     :date => Time.parse(hash[:date]),
     :description => '<![CDATA[<pre>' + desc + '</pre>]]>'
   }
