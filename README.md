@@ -1,12 +1,11 @@
 # LiveCoding#6
 
 <div id="path">
-<b><a href="/ujihisa/livecoding6/tree">livecoding6</a></b> / Commit History
-<a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for ujihisa/livecoding6 at master" /></a>
+Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for ujihisa/livecoding6 at master" /></a>
 </div>
 
 ## 概要
-* 2009-07-11 (Sat) 5:30pm開場 6:30pm開演
+* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
 * 参加費3000円ぐらい (飲食込み)
 
@@ -24,6 +23,8 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、�
         $ ruby cool.rb
 
    ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
+
+なお、LiveCoderは参加費が無料あるいは格安になります。
 
 ## 一般参加方法
 LiveCoderにならない予定の方は以下のフォームから申し込みください。
@@ -74,7 +75,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 ### 補足
 * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
-* LiveCoderは参加費が無料あるいは格安になります。
 
 ----
 
@@ -94,7 +94,7 @@ Input the following form:
 
 <http://cotocoto.jp/event/30597>
 
-## DETAIL
+## DETAILS
 A "LiveCoder" creates a new software within 20 minutes, and demonstrates it.
 How the LiveCoder is coding is completely going on screen with a projector.
 And "Play-by-Play commentaries" are always explaining what he/she is doing.
