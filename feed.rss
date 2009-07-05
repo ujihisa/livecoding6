@@ -8,10 +8,11 @@
     <title>Recent Commits to livecoding6:master with Diff</title>
     <link>http://ujihisa.github.com/livecoding6/</link>
     <description>Recent Commits to livecoding6:master with Diff</description>
+    
     <item>
       <title>4747ee17f21bca02aa91d332a91c5d5725e62c72</title>
       <link>4747ee17f21bca02aa91d332a91c5d5725e62c72</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Use feed.rss
 
 diff --git a/README.md b/README.md
@@ -28,14 +29,15 @@ index f60f10b..989a2d3 100644
  
  ## 概要
 
-]]&gt;</description>
-      <pubDate>Sun, 05 Jul 2009 16:55:20 +0900</pubDate>
-      <dc:date>2009-07-05T16:55:20+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Sun Jul 05 16:55:20 +0900 2009</pubDate>
+      <dc:date>Sun Jul 05 16:55:20 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>51b1ee75828bb2745e0ff44e6fa8da98e82dbd93</title>
       <link>51b1ee75828bb2745e0ff44e6fa8da98e82dbd93</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added Kimoto's LiveCoding
 
 diff --git a/README.md b/README.md
@@ -79,14 +81,15 @@ index 173851f..f60f10b 100644
      * Powered by Something
  
 
-]]&gt;</description>
-      <pubDate>Sat, 04 Jul 2009 13:16:37 +0900</pubDate>
-      <dc:date>2009-07-04T13:16:37+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Sat Jul 04 13:16:37 +0900 2009</pubDate>
+      <dc:date>Sat Jul 04 13:16:37 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>49e8dbb141cc69739bc3b2a9f90502344f3288bb</title>
       <link>49e8dbb141cc69739bc3b2a9f90502344f3288bb</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added RSS
 
 diff --git a/README.md b/README.md
@@ -105,14 +108,15 @@ index f4cb4ac..173851f 100644
  * 2009-07-11 (Sat) 5:30pm開場 6:30pm開演
  * [京都西陣町家スタジオ](http://nishi-jin.net/)
 
-]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2009 23:23:42 +0900</pubDate>
-      <dc:date>2009-07-03T23:23:42+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Fri Jul 03 23:23:42 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 23:23:42 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>a0926d4c2d1e61250bb37bf592d9c6d49f80551a</title>
       <link>a0926d4c2d1e61250bb37bf592d9c6d49f80551a</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added registration part
 
 diff --git a/README.md b/README.md
@@ -197,14 +201,15 @@ index 43345bf..f4cb4ac 100644
  A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
  How the LiveCoder is coding is completely going on screen with a projector.
 
-]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2009 23:09:29 +0900</pubDate>
-      <dc:date>2009-07-03T23:09:29+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Fri Jul 03 23:09:29 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 23:09:29 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>8578e2dfb19678908646ea32c94c0499676984ab</title>
       <link>8578e2dfb19678908646ea32c94c0499676984ab</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added English Translation
 
 diff --git a/README.md b/README.md
@@ -255,14 +260,15 @@ index 9d11bb2..43345bf 100644
 +### NOTES
 +--&gt;
 
-]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2009 17:55:57 +0900</pubDate>
-      <dc:date>2009-07-03T17:55:57+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Fri Jul 03 17:55:57 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 17:55:57 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>a7fb6705c6f82c5778e9e2b4af790be3d5c1e58e</title>
       <link>a7fb6705c6f82c5778e9e2b4af790be3d5c1e58e</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Fix layout
 
 diff --git a/README.md b/README.md
@@ -280,14 +286,15 @@ index d877401..9d11bb2 100644
  
  LiveCoderが何を作るかについては、自分で決めた上でそれをLiveCoding前に告知します。
 
-]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2009 17:42:46 +0900</pubDate>
-      <dc:date>2009-07-03T17:42:46+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Fri Jul 03 17:42:46 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 17:42:46 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>46bc900c95cce285625bc2fc9e156364d6cdd94b</title>
       <link>46bc900c95cce285625bc2fc9e156364d6cdd94b</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added details of Livecoding
 
 diff --git a/README.md b/README.md
@@ -319,14 +326,15 @@ index 7240425..d877401 100644
  応募方法
  
 
-]]&gt;</description>
-      <pubDate>Fri, 03 Jul 2009 17:41:07 +0900</pubDate>
-      <dc:date>2009-07-03T17:41:07+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Fri Jul 03 17:41:07 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 17:41:07 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>abd463f8a111001e0ac628d44f5100cb8ae0b3a2</title>
       <link>abd463f8a111001e0ac628d44f5100cb8ae0b3a2</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Fixed
 
 diff --git a/README.md b/README.md
@@ -361,14 +369,15 @@ index c35cd84..7240425 100644
  * LiveCoderは参加費が無料になる恐れがあります
  * LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
 
-]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2009 23:20:54 +0900</pubDate>
-      <dc:date>2009-07-01T23:20:54+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Wed Jul 01 23:20:54 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 23:20:54 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>d240b6e1080f71ab559ef3a9a6df9676eb820c50</title>
       <link>d240b6e1080f71ab559ef3a9a6df9676eb820c50</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added note
 
 diff --git a/README.md b/README.md
@@ -385,14 +394,15 @@ index 7e9c011..c35cd84 100644
 +* LiveCoderは参加費が無料になる恐れがあります
 +* LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
 
-]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2009 10:57:58 +0900</pubDate>
-      <dc:date>2009-07-01T10:57:58+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Wed Jul 01 10:57:58 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 10:57:58 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>bb8f2db90ecefd049e4bb05c825fa0e0764b9791</title>
       <link>bb8f2db90ecefd049e4bb05c825fa0e0764b9791</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added my livecoding
 
 diff --git a/README.md b/README.md
@@ -410,14 +420,15 @@ index 94a74d2..7e9c011 100644
  * *Title* with [name](uri)
      * Powered by Something
 
-]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2009 01:26:47 +0900</pubDate>
-      <dc:date>2009-07-01T01:26:47+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Wed Jul 01 01:26:47 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 01:26:47 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>f153cf58dfc96db7a5345deec206db9deff28563</title>
       <link>f153cf58dfc96db7a5345deec206db9deff28563</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Added note for pandoc
 
 diff --git a/README.md b/README.md
@@ -437,14 +448,15 @@ index 7fd0f91..94a74d2 100644
  ## Contents
  
 
-]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2009 01:08:55 +0900</pubDate>
-      <dc:date>2009-07-01T01:08:55+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Wed Jul 01 01:08:55 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 01:08:55 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>13433ee18f44e754c1468c7ec1014d8829377b2b</title>
       <link>13433ee18f44e754c1468c7ec1014d8829377b2b</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Simple task
 
 diff --git a/README.md b/README.md
@@ -462,14 +474,15 @@ index cf75a37..7fd0f91 100644
  ## Contents
  
 
-]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2009 01:05:00 +0900</pubDate>
-      <dc:date>2009-07-01T01:05:00+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Wed Jul 01 01:05:00 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 01:05:00 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>6f1c27b24d364afa7ef341e24aac6487796af01a</title>
       <link>6f1c27b24d364afa7ef341e24aac6487796af01a</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Fixed how to join
 
 diff --git a/README.md b/README.md
@@ -497,14 +510,15 @@ index aa4741d..cf75a37 100644
  ## Contents
  
 
-]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2009 00:35:09 +0900</pubDate>
-      <dc:date>2009-07-01T00:35:09+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Wed Jul 01 00:35:09 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 00:35:09 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>5bc9de45d7b69d872264dd53fb8da7abaaaccd37</title>
       <link>5bc9de45d7b69d872264dd53fb8da7abaaaccd37</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     Fixed contents
 
 diff --git a/README.md b/README.md
@@ -528,14 +542,15 @@ index ddd312a..aa4741d 100644
 +* *Title* with [name](uri)
 +    * Powered by Something
 
-]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2009 16:43:21 +0900</pubDate>
-      <dc:date>2009-06-30T16:43:21+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Tue Jun 30 16:43:21 +0900 2009</pubDate>
+      <dc:date>Tue Jun 30 16:43:21 +0900 2009</dc:date>
     </item>
+    
     <item>
       <title>bc37bd60bb7225ae3d18692d2718b20c2fcbc43d</title>
       <link>bc37bd60bb7225ae3d18692d2718b20c2fcbc43d</link>
-      <description>&lt;![CDATA[
+      <description><![CDATA[<pre>
     rename
 
 diff --git a/README.md b/README.md
@@ -559,9 +574,10 @@ index 0000000..ddd312a
 +1. [このレポジトリ](http://github.com/ujihisa/livecoding6/tree/master)をforkして、READMEに直接自分の名前を書いて、
 +    pull requestを送信してください。
 +2.  一度pull requestを送信すると自動的にcommit bitが配布されます。以後はこのレポジトリにpushしてください。
-]]&gt;</description>
-      <pubDate>Tue, 30 Jun 2009 10:41:27 +0900</pubDate>
-      <dc:date>2009-06-30T10:41:27+09:00</dc:date>
+</pre>]]></description>
+      <pubDate>Tue Jun 30 10:41:27 +0900 2009</pubDate>
+      <dc:date>Tue Jun 30 10:41:27 +0900 2009</dc:date>
     </item>
+    
   </channel>
 </rss>
