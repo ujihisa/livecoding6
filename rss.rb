@@ -4,21 +4,7 @@ class RSS
     [:title, :description, :link, :items].each do |x|
       raise unless hash[x]
     end
-    ERB.new(DATA.read).result(binding)
-  end
-end
-
-if $0 == __FILE__
-  hashes = []
-  rss = RSS.make(
-    :title => "Recent Commits to livecoding6:master with Diff",
-    :description => "Recent Commits to livecoding6:master with Diff",
-    :link => "http://ujihisa.github.com/livecoding6/",
-    :items => hashes)
-  puts rss
-end
-
-__END__
+    template = <<EOF # {{{
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -40,3 +26,19 @@ __END__
     <% end %>
   </channel>
 </rss>
+EOF
+    # }}}
+    ERB.new(template).result(binding)
+  end
+end
+
+if $0 == __FILE__
+  hashes = []
+  rss = RSS.make(
+    :title => "Recent Commits to livecoding6:master with Diff",
+    :description => "Recent Commits to livecoding6:master with Diff",
+    :link => "http://ujihisa.github.com/livecoding6/",
+    :items => hashes)
+  puts rss
+end
+# vim: foldmethod=marker
