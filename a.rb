@@ -1,4 +1,6 @@
-require 'rss/maker'
+require 'time'
+require 'cgi'
+require './rss'
 
 gl = `git log -u README.md`.lines.inject([]) {|sofar, line|
   line = line.gsub('@gmail.com', ' at gmail com')
@@ -9,7 +11,7 @@ gl = `git log -u README.md`.lines.inject([]) {|sofar, line|
     sofar
   end
 }
-hash = gl.map {|commit|
+hashes = gl.map {|commit|
   commit = commit.lines.to_a
   hash = {}
   hash[:commit] = commit.shift.chomp.match(/commit (.*)/)[1]
@@ -17,27 +19,17 @@ hash = gl.map {|commit|
   hash[:author] = commit.shift.chomp.match(/Author:\s*(.*)/)[1]
   hash[:date] = commit.shift.chomp.match(/Date:\s*(.*)/)[1]
 
+  desc = CGI.escapeHTML(commit.join)
   {
     :title => hash[:commit],
     :link => hash[:commit],
     :date => Time.parse(hash[:date]),
-    :description => '<![CDATA[' + commit.join + ']]>'
+    :description => '<![CDATA[<pre>' + desc + '</pre>]]>'
   }
 }
 
-content = RSS::Maker.make('2.0') do |m|
-  m.channel.title = "Recent Commits to livecoding6:master with Diff"
-  m.channel.description = "Recent Commits to livecoding6:master with Diff"
-  m.channel.link = "http://ujihisa.github.com/livecoding6/"
-  #m.items.do_sort = true
-
-  hash.each do |h|
-    i = m.items.new_item
-    i.title = h[:title]
-    i.link = h[:link]
-    i.date = h[:date]
-    i.description = h[:description]
-  end
-end
-
-puts content
+puts RSS.make(
+    :title => "Recent Commits to livecoding6:master with Diff",
+    :description => "Recent Commits to livecoding6:master with Diff",
+    :link => "http://ujihisa.github.com/livecoding6/",
+    :items => hashes)
