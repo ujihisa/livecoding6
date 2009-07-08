@@ -10,6 +10,89 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>7b04a76a8c00b4f85b9c3c410d3c2590ab0a6e22</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    s/android/Android/
+
+diff --git a/README.md b/README.md
+index a1dc7ea..0a19b7c 100644
+--- a/README.md
++++ b/README.md
+@@ -64,10 +64,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * Twitterをちょっと便利にするGreasemonkeyを作成します。
+     * Powered by Emacs, JavaScript, Mac OS X and MacBook
+ 
+-* *androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
++* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+     * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
++
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+ --&gt;
+
+</pre>]]></description>
+      <pubDate>Wed Jul 08 19:19:38 +0900 2009</pubDate>
+      <dc:date>Wed Jul 08 19:19:38 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>03de6dc6e859ae9e7513c10aaf49d48df258b155</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    +me
+
+diff --git a/README.md b/README.md
+index 8ce4420..a1dc7ea 100644
+--- a/README.md
++++ b/README.md
+@@ -64,6 +64,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * Twitterをちょっと便利にするGreasemonkeyを作成します。
+     * Powered by Emacs, JavaScript, Mac OS X and MacBook
+ 
++* *androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
++    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
++    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+
+</pre>]]></description>
+      <pubDate>Wed Jul 08 19:18:11 +0900 2009</pubDate>
+      <dc:date>Wed Jul 08 19:18:11 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>70525685b322ee3f7fad3e2ebc0a0ee475f11b58</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added hitode909's LiveCoding.
+
+diff --git a/README.md b/README.md
+index f4fd789..8ce4420 100644
+--- a/README.md
++++ b/README.md
+@@ -60,6 +60,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
+     * Powered by Vim, C, Windows XP Pro and Let's note
+ 
++* *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
++    * Twitterをちょっと便利にするGreasemonkeyを作成します。
++    * Powered by Emacs, JavaScript, Mac OS X and MacBook
++
++
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+ --&gt;
+
+</pre>]]></description>
+      <pubDate>Wed Jul 08 18:13:32 +0900 2009</pubDate>
+      <dc:date>Wed Jul 08 18:13:32 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>60a98e5bc82090027f502c03bbb377be958995bb</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
