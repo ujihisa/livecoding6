@@ -60,6 +60,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
     * Powered by Vim, C, Windows XP Pro and Let's note
 
+* *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
+    * Twitterをちょっと便利にするGreasemonkeyを作成します。
+    * Powered by Emacs, JavaScript, Mac OS X and MacBook
+
+
 <!--
 * *未定* with [Imo](http://fbox.info/)
 -->
