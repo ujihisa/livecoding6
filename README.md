@@ -60,6 +60,15 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
     * Powered by Vim, C, Windows XP Pro and Let's note
 
+* *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
+    * Twitterをちょっと便利にするGreasemonkeyを作成します。
+    * Powered by Emacs, JavaScript, Mac OS X and MacBook
+
+* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+
+
 <!--
 * *未定* with [Imo](http://fbox.info/)
 -->
