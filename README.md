@@ -64,9 +64,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * Twitterをちょっと便利にするGreasemonkeyを作成します。
     * Powered by Emacs, JavaScript, Mac OS X and MacBook
 
-* *androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
     * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+
 
 <!--
 * *未定* with [Imo](http://fbox.info/)
