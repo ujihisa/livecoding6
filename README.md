@@ -68,6 +68,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
 
+* *Ruby/SDLでなんか* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
+    * ゲームっぽい何かかな
+    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
 
 <!--
 * *未定* with [Imo](http://fbox.info/)
