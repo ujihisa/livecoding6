@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Recent Commits to livecoding6:master with Diff</title>
+    <link>http://ujihisa.github.com/livecoding6/</link>
+    <description>Recent Commits to livecoding6:master with Diff</description>
+    
+    <item>
+      <title>790f7769b3cdb92990e5b7c79196fc08e6888af2</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    add hotchpotch
+
+diff --git a/README.md b/README.md
+index b513743..5b62d29 100644
+--- a/README.md
++++ b/README.md
+@@ -72,6 +72,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * ゲームっぽい何かかな
+     * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+ 
++* *AS3 で何か作る* with [hotchpotch] ( http://tako3.com/http://github.com/hotchpotch )
++    * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
++    * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
++
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+ --&gt;
+
+</pre>]]></description>
+      <pubDate>Thu Jul 09 14:11:20 +0900 2009</pubDate>
+      <dc:date>Thu Jul 09 14:11:20 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>154ce96cd8a213af62c3430eb5a22adb1132c6e4</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Add ohai to LiveCoders
+
+diff --git a/README.md b/README.md
+index 0a19b7c..b513743 100644
+--- a/README.md
++++ b/README.md
+@@ -68,6 +68,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
++* *Ruby/SDLでなんか* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
++    * ゲームっぽい何かかな
++    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+ 
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+
+</pre>]]></description>
+      <pubDate>Thu Jul 09 05:54:58 +0900 2009</pubDate>
+      <dc:date>Thu Jul 09 05:54:58 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>7b04a76a8c00b4f85b9c3c410d3c2590ab0a6e22</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    s/android/Android/
+
+diff --git a/README.md b/README.md
+index a1dc7ea..0a19b7c 100644
+--- a/README.md
++++ b/README.md
+@@ -64,10 +64,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * Twitterをちょっと便利にするGreasemonkeyを作成します。
+     * Powered by Emacs, JavaScript, Mac OS X and MacBook
+ 
+-* *androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
++* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+     * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
++
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+ --&gt;
+
+</pre>]]></description>
+      <pubDate>Wed Jul 08 19:19:38 +0900 2009</pubDate>
+      <dc:date>Wed Jul 08 19:19:38 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>03de6dc6e859ae9e7513c10aaf49d48df258b155</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    +me
+
+diff --git a/README.md b/README.md
+index 8ce4420..a1dc7ea 100644
+--- a/README.md
++++ b/README.md
+@@ -64,6 +64,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * Twitterをちょっと便利にするGreasemonkeyを作成します。
+     * Powered by Emacs, JavaScript, Mac OS X and MacBook
+ 
++* *androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
++    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
++    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+
+</pre>]]></description>
+      <pubDate>Wed Jul 08 19:18:11 +0900 2009</pubDate>
+      <dc:date>Wed Jul 08 19:18:11 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>70525685b322ee3f7fad3e2ebc0a0ee475f11b58</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added hitode909's LiveCoding.
+
+diff --git a/README.md b/README.md
+index f4fd789..8ce4420 100644
+--- a/README.md
++++ b/README.md
+@@ -60,6 +60,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
+     * Powered by Vim, C, Windows XP Pro and Let's note
+ 
++* *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
++    * Twitterをちょっと便利にするGreasemonkeyを作成します。
++    * Powered by Emacs, JavaScript, Mac OS X and MacBook
++
++
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+ --&gt;
+
+</pre>]]></description>
+      <pubDate>Wed Jul 08 18:13:32 +0900 2009</pubDate>
+      <dc:date>Wed Jul 08 18:13:32 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>60a98e5bc82090027f502c03bbb377be958995bb</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Fixed expressions a little
+
+diff --git a/README.md b/README.md
+index 989a2d3..f4fd789 100644
+--- a/README.md
++++ b/README.md
+@@ -1,12 +1,11 @@
+ # LiveCoding#6
+ 
+ &lt;div id=&quot;path&quot;&gt;
+-&lt;b&gt;&lt;a href=&quot;/ujihisa/livecoding6/tree&quot;&gt;livecoding6&lt;/a&gt;&lt;/b&gt; / Commit History
+-&lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
++Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+ ## 概要
+-* 2009-07-11 (Sat) 5:30pm開場 6:30pm開演
++* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費3000円ぐらい (飲食込み)
+ 
+@@ -25,6 +24,8 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 
+    ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
+ 
++なお、LiveCoderは参加費が無料あるいは格安になります。
++
+ ## 一般参加方法
+ LiveCoderにならない予定の方は以下のフォームから申し込みください。
+ 
+@@ -74,7 +75,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ ### 補足
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+-* LiveCoderは参加費が無料あるいは格安になります。
+ 
+ ----
+ 
+@@ -94,7 +94,7 @@ Input the following form:
+ 
+ &lt;http://cotocoto.jp/event/30597&gt;
+ 
+-## DETAIL
++## DETAILS
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+ How the LiveCoder is coding is completely going on screen with a projector.
+ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+
+</pre>]]></description>
+      <pubDate>Sun Jul 05 20:52:01 +0900 2009</pubDate>
+      <dc:date>Sun Jul 05 20:52:01 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>4747ee17f21bca02aa91d332a91c5d5725e62c72</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Use feed.rss
+
+diff --git a/README.md b/README.md
+index f60f10b..989a2d3 100644
+--- a/README.md
++++ b/README.md
+@@ -2,7 +2,7 @@
+ 
+ &lt;div id=&quot;path&quot;&gt;
+ &lt;b&gt;&lt;a href=&quot;/ujihisa/livecoding6/tree&quot;&gt;livecoding6&lt;/a&gt;&lt;/b&gt; / Commit History
+-&lt;a href=&quot;http://github.com/feeds/ujihisa/commits/livecoding6/master&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
++&lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
+ &lt;/div&gt;
+ 
+ ## 概要
+
+</pre>]]></description>
+      <pubDate>Sun Jul 05 16:55:20 +0900 2009</pubDate>
+      <dc:date>Sun Jul 05 16:55:20 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>51b1ee75828bb2745e0ff44e6fa8da98e82dbd93</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added Kimoto's LiveCoding
+
+diff --git a/README.md b/README.md
+index 173851f..f60f10b 100644
+--- a/README.md
++++ b/README.md
+@@ -54,6 +54,15 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+     * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
+     * Powered by Vim, Ruby, Mac OS X and MacBook Air
++
++* *大学の演習，回答求む?* with [木本](http://d.hatena.ne.jp/ryutorion/)
++    * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
++    * Powered by Vim, C, Windows XP Pro and Let's note
++
++&lt;!--
++* *未定* with [Imo](http://fbox.info/)
++--&gt;
++
+ * *Title* with [name](uri)
+     * Powered by Something
+ 
+@@ -68,6 +77,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderは参加費が無料あるいは格安になります。
+ 
+ ----
++
+ # LiveCoding#6
+ 
+ ## SUMMARY
+@@ -101,7 +111,11 @@ STUB
+ 
+ ## CONTENTS
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
++    * The ultimate web application platform Sinatra/Google App Engine for Java/JRuby
+     * Powered by Vim, Ruby, Mac OS X and MacBook Air
++* *Wanted: The Answer of my Assignment* with [Kimoto](http://d.hatena.ne.jp/ryutorion/)
++    * There are few hours to submit my report. Does it make on time while I've never got going. Get a unit or repeat the course.
++    * Powered by Vim, C, Windows XP Pro and Let's note
+ * *Title* with [name](uri)
+     * Powered by Something
+ 
+
+</pre>]]></description>
+      <pubDate>Sat Jul 04 13:16:37 +0900 2009</pubDate>
+      <dc:date>Sat Jul 04 13:16:37 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>49e8dbb141cc69739bc3b2a9f90502344f3288bb</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added RSS
+
+diff --git a/README.md b/README.md
+index f4cb4ac..173851f 100644
+--- a/README.md
++++ b/README.md
+@@ -1,5 +1,10 @@
+ # LiveCoding#6
+ 
++&lt;div id=&quot;path&quot;&gt;
++&lt;b&gt;&lt;a href=&quot;/ujihisa/livecoding6/tree&quot;&gt;livecoding6&lt;/a&gt;&lt;/b&gt; / Commit History
++&lt;a href=&quot;http://github.com/feeds/ujihisa/commits/livecoding6/master&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090&quot; title=&quot;Subscribe to the commits for ujihisa/livecoding6 at master&quot; /&gt;&lt;/a&gt;
++&lt;/div&gt;
++
+ ## 概要
+ * 2009-07-11 (Sat) 5:30pm開場 6:30pm開演
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+
+</pre>]]></description>
+      <pubDate>Fri Jul 03 23:23:42 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 23:23:42 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>a0926d4c2d1e61250bb37bf592d9c6d49f80551a</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added registration part
+
+diff --git a/README.md b/README.md
+index 43345bf..f4cb4ac 100644
+--- a/README.md
++++ b/README.md
+@@ -7,6 +7,24 @@
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
++## LiveCoder募集中
++応募方法
++
++1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
++   本レポジトリのコミット権を取得します (自動的に取得できます):
++2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
++   pushしてください。
++3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
++
++        $ ruby cool.rb
++
++   ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
++
++## 一般参加方法
++LiveCoderにならない予定の方は以下のフォームから申し込みください。
++
++&lt;http://cotocoto.jp/event/30597&gt;
++
+ ## 詳しく
+ 一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
+ LiveCoderがどのようにコーディングしているかの全てがプロジェクターで大画面に映し出され、
+@@ -26,20 +44,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
+   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
+ 
+-## LiveCoder募集中
+-応募方法
+-
+-1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
+-   本レポジトリのコミット権を取得します (自動的に取得できます):
+-2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
+-   pushしてください。
+-3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
+-
+-        $ ruby cool.rb
+-
+-   ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
+-
+-
+ ## Contents
+ 
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+@@ -48,14 +52,15 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * *Title* with [name](uri)
+     * Powered by Something
+ 
++他にも、あの人やこの人が参加します!
++
+ ## Google Android Hackathon
+ * LiveCodingのあとで、そのまま次の日の朝まで同会場でGoogle Android携帯のアプリケーション開発Hackathonを行ないます。
+ 
+ 
+ ### 補足
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+-* LiveCoderは参加費が無料になる恐れがあります
+-* LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
++* LiveCoderは参加費が無料あるいは格安になります。
+ 
+ ----
+ # LiveCoding#6
+@@ -68,6 +73,12 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
+ It is amusing that we watch a super technique of a great hacker rowdy.
+ 
++## REGISTRATION
++
++Input the following form:
++
++&lt;http://cotocoto.jp/event/30597&gt;
++
+ ## DETAIL
+ A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
+ How the LiveCoder is coding is completely going on screen with a projector.
+
+</pre>]]></description>
+      <pubDate>Fri Jul 03 23:09:29 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 23:09:29 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>8578e2dfb19678908646ea32c94c0499676984ab</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added English Translation
+
+diff --git a/README.md b/README.md
+index 9d11bb2..43345bf 100644
+--- a/README.md
++++ b/README.md
+@@ -56,3 +56,42 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+ * LiveCoderは参加費が無料になる恐れがあります
+ * LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
++
++----
++# LiveCoding#6
++
++## SUMMARY
++* July 11, 2009 (Sat) Opens at 5:30pm and Starts at 6:30pm
++* [Kyoto Nishijin Machiya Studio](http://nishi-jin.net/) (in Japanese)
++* Fee: About 3,000 yen
++
++LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
++It is amusing that we watch a super technique of a great hacker rowdy.
++
++## DETAIL
++A &quot;LiveCoder&quot; creates a new software within 20 minutes, and demonstrates it.
++How the LiveCoder is coding is completely going on screen with a projector.
++And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
++
++&gt; A: She is compiling it... Wow! Syntax error has occurred!
++&gt;
++&gt; B: LOL
++&gt;
++&gt; LiveCoder: (///
++
++&lt;!--
++STUB
++--&gt;
++
++## CONTENTS
++* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
++    * Powered by Vim, Ruby, Mac OS X and MacBook Air
++* *Title* with [name](uri)
++    * Powered by Something
++
++&lt;!--
++STUB
++## CALL FOR LIVECODERS
++## Google Android Hackathon
++### NOTES
++--&gt;
+
+</pre>]]></description>
+      <pubDate>Fri Jul 03 17:55:57 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 17:55:57 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>a7fb6705c6f82c5778e9e2b4af790be3d5c1e58e</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Fix layout
+
+diff --git a/README.md b/README.md
+index d877401..9d11bb2 100644
+--- a/README.md
++++ b/README.md
+@@ -13,7 +13,9 @@ LiveCoderがどのようにコーディングしているかの全てがプロ
+ さらに解説役が常にLiveCoderの挙動を説明します。
+ 
+ &gt; A 「コンパイル中です・・・、お、おおお、なんと、Syntax error!」
++&gt;
+ &gt; B 「これは恥ずかしい…」
++&gt;
+ &gt; LiveCoder 「(/// 」
+ 
+ LiveCoderが何を作るかについては、自分で決めた上でそれをLiveCoding前に告知します。
+
+</pre>]]></description>
+      <pubDate>Fri Jul 03 17:42:46 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 17:42:46 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>46bc900c95cce285625bc2fc9e156364d6cdd94b</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added details of Livecoding
+
+diff --git a/README.md b/README.md
+index 7240425..d877401 100644
+--- a/README.md
++++ b/README.md
+@@ -7,6 +7,23 @@
+ 
+ LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
+ 
++## 詳しく
++一人の&quot;LiveCoder&quot;が、20分の制限時間で何かソフトウェアを作り、デモをします。
++LiveCoderがどのようにコーディングしているかの全てがプロジェクターで大画面に映し出され、
++さらに解説役が常にLiveCoderの挙動を説明します。
++
++&gt; A 「コンパイル中です・・・、お、おおお、なんと、Syntax error!」
++&gt; B 「これは恥ずかしい…」
++&gt; LiveCoder 「(/// 」
++
++LiveCoderが何を作るかについては、自分で決めた上でそれをLiveCoding前に告知します。
++ただし、観客の要望で仕様が強制的に変更になることがあります。
++どう考えても20分以内に実装できないことが明らかな場合、仕様変更要望は無視できます。
++
++* 一人のLiveCoderに対して二人の解説役が付くことがうまくいくという経験則があります。
++* LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
++  もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
++
+ ## LiveCoder募集中
+ 応募方法
+ 
+
+</pre>]]></description>
+      <pubDate>Fri Jul 03 17:41:07 +0900 2009</pubDate>
+      <dc:date>Fri Jul 03 17:41:07 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>abd463f8a111001e0ac628d44f5100cb8ae0b3a2</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Fixed
+
+diff --git a/README.md b/README.md
+index c35cd84..7240425 100644
+--- a/README.md
++++ b/README.md
+@@ -1,7 +1,7 @@
+ # LiveCoding#6
+ 
+ ## 概要
+-* 2009-07-11 (Sat) ??pm開場 ??pm開演
++* 2009-07-11 (Sat) 5:30pm開場 6:30pm開演
+ * [京都西陣町家スタジオ](http://nishi-jin.net/)
+ * 参加費3000円ぐらい (飲食込み)
+ 
+@@ -24,12 +24,16 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ ## Contents
+ 
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+-    * 最強のWebシステム開発環境と言わざるを得ない
++    * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
+     * Powered by Vim, Ruby, Mac OS X and MacBook Air
+ * *Title* with [name](uri)
+     * Powered by Something
+ 
++## Google Android Hackathon
++* LiveCodingのあとで、そのまま次の日の朝まで同会場でGoogle Android携帯のアプリケーション開発Hackathonを行ないます。
++
+ 
+ ### 補足
++* 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+ * LiveCoderは参加費が無料になる恐れがあります
+ * LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
+
+</pre>]]></description>
+      <pubDate>Wed Jul 01 23:20:54 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 23:20:54 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>d240b6e1080f71ab559ef3a9a6df9676eb820c50</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added note
+
+diff --git a/README.md b/README.md
+index 7e9c011..c35cd84 100644
+--- a/README.md
++++ b/README.md
+@@ -28,3 +28,8 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+     * Powered by Vim, Ruby, Mac OS X and MacBook Air
+ * *Title* with [name](uri)
+     * Powered by Something
++
++
++### 補足
++* LiveCoderは参加費が無料になる恐れがあります
++* LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
+
+</pre>]]></description>
+      <pubDate>Wed Jul 01 10:57:58 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 10:57:58 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>bb8f2db90ecefd049e4bb05c825fa0e0764b9791</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added my livecoding
+
+diff --git a/README.md b/README.md
+index 94a74d2..7e9c011 100644
+--- a/README.md
++++ b/README.md
+@@ -23,7 +23,8 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 
+ ## Contents
+ 
+-* *Sample Live Coding* with [ujihisa](http://ujihisa.blogspot.com/)
++* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
++    * 最強のWebシステム開発環境と言わざるを得ない
+     * Powered by Vim, Ruby, Mac OS X and MacBook Air
+ * *Title* with [name](uri)
+     * Powered by Something
+
+</pre>]]></description>
+      <pubDate>Wed Jul 01 01:26:47 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 01:26:47 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>f153cf58dfc96db7a5345deec206db9deff28563</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added note for pandoc
+
+diff --git a/README.md b/README.md
+index 7fd0f91..94a74d2 100644
+--- a/README.md
++++ b/README.md
+@@ -16,7 +16,10 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+    pushしてください。
+ 3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
+ 
+-    $ ruby cool.rb
++        $ ruby cool.rb
++
++   ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
++
+ 
+ ## Contents
+ 
+
+</pre>]]></description>
+      <pubDate>Wed Jul 01 01:08:55 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 01:08:55 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>13433ee18f44e754c1468c7ec1014d8829377b2b</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Simple task
+
+diff --git a/README.md b/README.md
+index cf75a37..7fd0f91 100644
+--- a/README.md
++++ b/README.md
+@@ -16,9 +16,7 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+    pushしてください。
+ 3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
+ 
+-    $ git checkout origin/gh-pages -b gh-pages
+     $ ruby cool.rb
+-    $ git checkout master
+ 
+ ## Contents
+ 
+
+</pre>]]></description>
+      <pubDate>Wed Jul 01 01:05:00 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 01:05:00 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>6f1c27b24d364afa7ef341e24aac6487796af01a</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Fixed how to join
+
+diff --git a/README.md b/README.md
+index aa4741d..cf75a37 100644
+--- a/README.md
++++ b/README.md
+@@ -10,10 +10,15 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ ## LiveCoder募集中
+ 応募方法
+ 
+-1. [このレポジトリ](http://github.com/ujihisa/livecoding6/tree/master)をforkして、READMEに直接自分の名前を書いて、
+-   pull requestを送信してください。
+-2. そのうち[このページ](http://ujihisa.github.com/livecoding6/)に反映されます。
+-2. 一度pull requestを送信すると、あとでその人にcommit bitが配布されます。以後はこのレポジトリにpushしてください。
++1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
++   本レポジトリのコミット権を取得します (自動的に取得できます):
++2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
++   pushしてください。
++3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
++
++    $ git checkout origin/gh-pages -b gh-pages
++    $ ruby cool.rb
++    $ git checkout master
+ 
+ ## Contents
+ 
+
+</pre>]]></description>
+      <pubDate>Wed Jul 01 00:35:09 +0900 2009</pubDate>
+      <dc:date>Wed Jul 01 00:35:09 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>5bc9de45d7b69d872264dd53fb8da7abaaaccd37</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Fixed contents
+
+diff --git a/README.md b/README.md
+index ddd312a..aa4741d 100644
+--- a/README.md
++++ b/README.md
+@@ -11,5 +11,13 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 応募方法
+ 
+ 1. [このレポジトリ](http://github.com/ujihisa/livecoding6/tree/master)をforkして、READMEに直接自分の名前を書いて、
+-    pull requestを送信してください。
+-2.  一度pull requestを送信すると自動的にcommit bitが配布されます。以後はこのレポジトリにpushしてください。
++   pull requestを送信してください。
++2. そのうち[このページ](http://ujihisa.github.com/livecoding6/)に反映されます。
++2. 一度pull requestを送信すると、あとでその人にcommit bitが配布されます。以後はこのレポジトリにpushしてください。
++
++## Contents
++
++* *Sample Live Coding* with [ujihisa](http://ujihisa.blogspot.com/)
++    * Powered by Vim, Ruby, Mac OS X and MacBook Air
++* *Title* with [name](uri)
++    * Powered by Something
+
+</pre>]]></description>
+      <pubDate>Tue Jun 30 16:43:21 +0900 2009</pubDate>
+      <dc:date>Tue Jun 30 16:43:21 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>bc37bd60bb7225ae3d18692d2718b20c2fcbc43d</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    rename
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..ddd312a
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,15 @@
++# LiveCoding#6
++
++## 概要
++* 2009-07-11 (Sat) ??pm開場 ??pm開演
++* [京都西陣町家スタジオ](http://nishi-jin.net/)
++* 参加費3000円ぐらい (飲食込み)
++
++LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
++
++## LiveCoder募集中
++応募方法
++
++1. [このレポジトリ](http://github.com/ujihisa/livecoding6/tree/master)をforkして、READMEに直接自分の名前を書いて、
++    pull requestを送信してください。
++2.  一度pull requestを送信すると自動的にcommit bitが配布されます。以後はこのレポジトリにpushしてください。
+</pre>]]></description>
+      <pubDate>Tue Jun 30 10:41:27 +0900 2009</pubDate>
+      <dc:date>Tue Jun 30 10:41:27 +0900 2009</dc:date>
+    </item>
+    
+  </channel>
+</rss>
