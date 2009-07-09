@@ -10,6 +10,32 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>154ce96cd8a213af62c3430eb5a22adb1132c6e4</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Add ohai to LiveCoders
+
+diff --git a/README.md b/README.md
+index 0a19b7c..b513743 100644
+--- a/README.md
++++ b/README.md
+@@ -68,6 +68,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
++* *Ruby/SDLでなんか* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
++    * ゲームっぽい何かかな
++    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+ 
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+
+</pre>]]></description>
+      <pubDate>Thu Jul 09 05:54:58 +0900 2009</pubDate>
+      <dc:date>Thu Jul 09 05:54:58 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>7b04a76a8c00b4f85b9c3c410d3c2590ab0a6e22</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
