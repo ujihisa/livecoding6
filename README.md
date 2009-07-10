@@ -86,9 +86,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
 
 
-* *Title* with [name](uri)
-    * Powered by Something
-
 他にも、あの人やこの人が参加します!
 
 ## Google Android Hackathon
