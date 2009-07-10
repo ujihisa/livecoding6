@@ -10,6 +10,97 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>bf36d959e205f605b892a6dbbb922ac08a1271cf</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Deleted sample
+
+diff --git a/README.md b/README.md
+index c3e839f..6ca2acf 100644
+--- a/README.md
++++ b/README.md
+@@ -86,9 +86,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ 
+ 
+ 
+-* *Title* with [name](uri)
+-    * Powered by Something
+-
+ 他にも、あの人やこの人が参加します!
+ 
+ ## Google Android Hackathon
+
+</pre>]]></description>
+      <pubDate>Fri Jul 10 16:46:31 +0900 2009</pubDate>
+      <dc:date>Fri Jul 10 16:46:31 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>fd48a6264d82d82039cfd92283f61662233c5cf5</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added imos
+
+diff --git a/README.md b/README.md
+index e8a06d5..c3e839f 100644
+--- a/README.md
++++ b/README.md
+@@ -80,9 +80,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
+     * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
+ 
+-&lt;!--
+-* *未定* with [Imo](http://fbox.info/)
+---&gt;
++* *PHPでWikiっぽいものを作る* with [imos](http://imoz.jp/)
++    * てきとーな記法のwikiっぽいものを作ります
++    * Powered by mi, php, Mac OS X and MacBook Pro
++
++
+ 
+ * *Title* with [name](uri)
+     * Powered by Something
+
+</pre>]]></description>
+      <pubDate>Fri Jul 10 16:46:23 +0900 2009</pubDate>
+      <dc:date>Fri Jul 10 16:46:23 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>0ce6e30f20b99880eb742bbb16e3f7ac66e221d9</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    trivial changes
+
+diff --git a/README.md b/README.md
+index 61161b8..e8a06d5 100644
+--- a/README.md
++++ b/README.md
+@@ -15,7 +15,7 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、
+ 応募方法
+ 
+ 1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
+-   本レポジトリのコミット権を取得します (自動的に取得できます):
++   本レポジトリのコミット権を取得します (自動的に取得できます) `-&gt;` いまはできないのでujihisaに連絡ください
+ 2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
+    pushしてください。
+ 3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
+@@ -72,7 +72,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * ゲームっぽい何かかな
+     * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+ 
+-* *AS3 で何か作る* with [hotchpotch] ( http://tako3.com/http://github.com/hotchpotch )
++* *AS3 で何か作る* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
+     * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
+     * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+ 
+
+</pre>]]></description>
+      <pubDate>Fri Jul 10 16:46:08 +0900 2009</pubDate>
+      <dc:date>Fri Jul 10 16:46:08 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>9d600799b6ad7920cfab4262f6f9ec2df47a4eaf</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
