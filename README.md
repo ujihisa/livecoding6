@@ -72,6 +72,14 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * ゲームっぽい何かかな
     * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
 
+* *AS3 で何か作る* with [hotchpotch] ( http://tako3.com/http://github.com/hotchpotch )
+    * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
+    * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+
+* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
+    * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
+    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
+
 <!--
 * *未定* with [Imo](http://fbox.info/)
 -->
