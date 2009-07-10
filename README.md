@@ -15,7 +15,7 @@ LiveCodingとは、ライヴでプログラミングの技を披露し合い、�
 応募方法
 
 1. [ここ](http://autocommitbit.appspot.com/)にあなたのgithubアカウントを入力して、
-   本レポジトリのコミット権を取得します (自動的に取得できます):
+   本レポジトリのコミット権を取得します (自動的に取得できます) `->` いまはできないのでujihisaに連絡ください
 2. [本レポジトリ](http://github.com/ujihisa/livecoding6/tree/master)を`git clone`して、READMEに直接自分の名前を書いて、
    pushしてください。
 3. 以下のコマンドで[このページ](http://ujihisa.github.com/livecoding6/)にも反映されます。
@@ -72,7 +72,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * ゲームっぽい何かかな
     * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
 
-* *AS3 で何か作る* with [hotchpotch] ( http://tako3.com/http://github.com/hotchpotch )
+* *AS3 で何か作る* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
     * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
     * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
 
@@ -80,12 +80,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
     * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
 
-<!--
-* *未定* with [Imo](http://fbox.info/)
--->
+* *PHPでWikiっぽいものを作る* with [imos](http://imoz.jp/)
+    * てきとーな記法のwikiっぽいものを作ります
+    * Powered by mi, php, Mac OS X and MacBook Pro
 
-* *Title* with [name](uri)
-    * Powered by Something
+
 
 他にも、あの人やこの人が参加します!
 
