@@ -10,6 +10,60 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>9d600799b6ad7920cfab4262f6f9ec2df47a4eaf</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    add
+
+diff --git a/README.md b/README.md
+index 5b62d29..61161b8 100644
+--- a/README.md
++++ b/README.md
+@@ -76,6 +76,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
+     * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+ 
++* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
++    * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
++    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
++
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+ --&gt;
+
+</pre>]]></description>
+      <pubDate>Thu Jul 09 15:03:17 +0900 2009</pubDate>
+      <dc:date>Thu Jul 09 15:03:17 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>790f7769b3cdb92990e5b7c79196fc08e6888af2</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    add hotchpotch
+
+diff --git a/README.md b/README.md
+index b513743..5b62d29 100644
+--- a/README.md
++++ b/README.md
+@@ -72,6 +72,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+     * ゲームっぽい何かかな
+     * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+ 
++* *AS3 で何か作る* with [hotchpotch] ( http://tako3.com/http://github.com/hotchpotch )
++    * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
++    * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
++
+ &lt;!--
+ * *未定* with [Imo](http://fbox.info/)
+ --&gt;
+
+</pre>]]></description>
+      <pubDate>Thu Jul 09 14:11:20 +0900 2009</pubDate>
+      <dc:date>Thu Jul 09 14:11:20 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>154ce96cd8a213af62c3430eb5a22adb1132c6e4</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
