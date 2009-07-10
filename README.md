@@ -80,9 +80,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
     * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
 
-<!--
-* *未定* with [Imo](http://fbox.info/)
--->
+* *PHPでWikiっぽいものを作る* with [imos](http://imoz.jp/)
+    * てきとーな記法のwikiっぽいものを作ります
+    * Powered by mi, php, Mac OS X and MacBook Pro
+
+
 
 * *Title* with [name](uri)
     * Powered by Something
