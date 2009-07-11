@@ -21,9 +21,9 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
     * ゲームっぽい何かかな
     * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
 
-* *AS3 で何か作る* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
-    * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
-    * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+* *Vimperator で何か作る* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
+    * <del>最近全く触ってない AS3 が恋しくなってきた</dev> Vimperator で、役に立たない何かを作ります
+    * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
 
 * *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
     * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
