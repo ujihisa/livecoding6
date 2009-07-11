@@ -4,6 +4,45 @@
 Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/images/icons/feed.png?e06bdeb610e33dc41002eaa80ce09d26ae153090" title="Subscribe to the commits for ujihisa/livecoding6 at master" /></a>
 </div>
 
+## Contents
+
+8人のLiveCoderが各20分で持ち前の技術を余すところなく披露します。
+実況解説は観客からその場で募ります。
+
+* *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
+    * Twitterをちょっと便利にするGreasemonkeyを作成します。
+    * Powered by Emacs, JavaScript, Mac OS X and MacBook
+
+* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
+    * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
+    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
+
+* *Ruby/SDLでなんか* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
+    * ゲームっぽい何かかな
+    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+
+* *AS3 で何か作る* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
+    * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
+    * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+
+* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+
+* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+    * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
+    * Powered by Vim, Ruby, Mac OS X and MacBook Air
+
+* *大学の演習，回答求む?* with [木本](http://d.hatena.ne.jp/ryutorion/)
+    * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
+    * Powered by Vim, C, Windows XP Pro and Let's note
+
+* *PHPでWikiっぽいものを作る* with [imos](http://imoz.jp/)
+    * てきとーな記法のwikiっぽいものを作ります
+    * Powered by mi, php, Mac OS X and MacBook Pro
+
+加えて、飛び入り参加も!
+
 ## 概要
 * **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
@@ -34,45 +73,6 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * 一人のLiveCoderに対して二人の解説役が付くことがうまくいくという経験則があります。
 * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
-
-## Contents
-
-8人のLiveCoderが各20分で持ち前の技術を余すところなく披露します。
-実況解説は観客からその場で募ります。
-
-* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
-    * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
-    * Powered by Vim, Ruby, Mac OS X and MacBook Air
-
-* *大学の演習，回答求む?* with [木本](http://d.hatena.ne.jp/ryutorion/)
-    * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
-    * Powered by Vim, C, Windows XP Pro and Let's note
-
-* *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
-    * Twitterをちょっと便利にするGreasemonkeyを作成します。
-    * Powered by Emacs, JavaScript, Mac OS X and MacBook
-
-* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
-    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
-    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
-
-* *Ruby/SDLでなんか* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
-    * ゲームっぽい何かかな
-    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
-
-* *AS3 で何か作る* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
-    * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
-    * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
-
-* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
-    * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
-    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
-
-* *PHPでWikiっぽいものを作る* with [imos](http://imoz.jp/)
-    * てきとーな記法のwikiっぽいものを作ります
-    * Powered by mi, php, Mac OS X and MacBook Pro
-
-加えて、飛び入り参加も!
 
 ## Google Android Hackathon
 * LiveCodingのあとで、そのまま次の日の朝まで同会場でGoogle Android携帯のアプリケーション開発Hackathonを行ないます。
