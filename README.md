@@ -40,21 +40,13 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 8人のLiveCoderが各20分で持ち前の技術を余すところなく披露します。
 実況解説は観客からその場で募ります。
 
-* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
-    * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
-    * Powered by Vim, Ruby, Mac OS X and MacBook Air
-
-* *大学の演習，回答求む?* with [木本](http://d.hatena.ne.jp/ryutorion/)
-    * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
-    * Powered by Vim, C, Windows XP Pro and Let's note
-
 * *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
     * Twitterをちょっと便利にするGreasemonkeyを作成します。
     * Powered by Emacs, JavaScript, Mac OS X and MacBook
 
-* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
-    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
-    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
+    * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
+    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
 
 * *Ruby/SDLでなんか* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
     * ゲームっぽい何かかな
@@ -64,9 +56,17 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
     * 最近全く触ってない AS3 が恋しくなってきたので、役に立たない何かを作ります
     * Powered by ActionScript3, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
 
-* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
-    * Scala で書いた GAE アプリを deploy しつつ、その上で JS を書きます
-    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
+* *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+
+* *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+    * Rubyistのための究極のWebアプリケーション開発環境、Sinatra/Google App Engine for Java/JRuby
+    * Powered by Vim, Ruby, Mac OS X and MacBook Air
+
+* *大学の演習，回答求む?* with [木本](http://d.hatena.ne.jp/ryutorion/)
+    * レポート提出まであと数時間，まったく手を付けていないのに間に合うのか．単位と留年を掛けたドキドキプログラミング
+    * Powered by Vim, C, Windows XP Pro and Let's note
 
 * *PHPでWikiっぽいものを作る* with [imos](http://imoz.jp/)
     * てきとーな記法のwikiっぽいものを作ります
