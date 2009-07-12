@@ -125,11 +125,35 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
 > LiveCoder: (///
 
 ## CONTENTS
+* *Pretty More Useful Twitter* with [hitode909](http://d.hatena.ne.jp/hitode909/)
+    * <http://d.hatena.ne.jp/hitode909/20090711/1247336635>
+    * A greasemonkey which makes twitter more useful
+    * Powered by Emacs, JavaScript, Mac OS X and MacBook
+
+* *JavaScript on Scala on GAE* with [cho45]( http://www.lowreal.net/ )
+    * A GAE app in Scala with JS(rhino)
+    * Powered by Scala, Java (is abbr of JavaScript), Vim, Rake and MacBook
+
+* *Something with Ruby/SDL* with [大林(ohai)](http://www.kmc.gr.jp/~ohai/)
+    * Something like a shooting game
+    * Powered by Ruby, Emacs, Ion, Debian/GNU Linux, and ThinkPad
+
+* *Something with Vimperator* with [hotchpotch](http://tako3.com/http://github.com/hotchpotch)
+    * An unuseful vimperator plugin
+    * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+
+* *Something with Android* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+    * Produce something as an Android app (and then will continue developing it at the Android Hackathon)
+    * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+
 * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
     * The ultimate web application platform Sinatra/Google App Engine for Java/JRuby
     * Powered by Vim, Ruby, Mac OS X and MacBook Air
+
 * *Wanted: The Answer of my Assignment* with [Kimoto](http://d.hatena.ne.jp/ryutorion/)
     * There are few hours to submit my report. Does it make on time while I've never got going. Get a unit or repeat the course.
     * Powered by Vim, C, Windows XP Pro and Let's note
-* *Title* with [name](uri)
-    * Powered by Something
+
+* *Wiki on PHP* with [imos](http://imoz.jp/)
+    * An irresponsible notation wiki
+    * Powered by mi, php, Mac OS X and MacBook Pro
