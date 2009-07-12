@@ -7,9 +7,9 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 ## Contents
 
 8人のLiveCoderが各20分で持ち前の技術を余すところなく披露します。
-実況解説は観客からその場で募ります。
 
 * *Twitterをちょっと便利に* with [hitode909](http://d.hatena.ne.jp/hitode909/)
+    * <http://d.hatena.ne.jp/hitode909/20090711/1247336635>
     * Twitterをちょっと便利にするGreasemonkeyを作成します。
     * Powered by Emacs, JavaScript, Mac OS X and MacBook
 
@@ -44,9 +44,9 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
 加えて、飛び入り参加も!
 
 ## 概要
-* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演
+* **2009-07-11 (Sat)** 5:30pm開場 6:30pm開演 0:30am終了
 * [京都西陣町家スタジオ](http://nishi-jin.net/)
-* 参加費3000円ぐらい (飲食込み)
+* 参加費3000円 (飲食込み)
 
 LiveCodingとは、ライヴでプログラミングの技を披露し合い、つっこみをいれたりして、その場でソフトウェアを開発する新しい潮流です。すごいプログラマーのスーパーテクニックを生で見て、みんなで盛り上がります。かなり楽しいです。
 
@@ -74,9 +74,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * LiveCoderは過去に作ったものと全く同じものをLiveCodingで作ることが禁止されています。
   もはやそれはLiveCodingではなく、たんなる動画の再生と見なされます。
 
-## Google Android Hackathon
-* LiveCodingのあとで、そのまま次の日の朝まで同会場でGoogle Android携帯のアプリケーション開発Hackathonを行ないます。
-
+## Google Android Hackathon / Vim Hackathon
+* LiveCodingのあとで、そのまま次の日の朝7:00amまで同会場でGoogle Android携帯のアプリケーション開発Hackathonなどを行ないます。
 
 ## LiveCoder募集中
 応募方法
@@ -91,7 +90,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 
    ただし`pandoc` (Haskell実装のMarkdown変換器)がないと動作しません。
 
-なお、LiveCoderは参加費が無料あるいは格安になります。
+なお、LiveCoderは参加費が無料になります。
 
 ### 補足
 * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
@@ -101,9 +100,9 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 # LiveCoding#6
 
 ## SUMMARY
-* July 11, 2009 (Sat) Opens at 5:30pm and Starts at 6:30pm
+* July 11, 2009 (Sat) Opens at 5:30pm, Starts at 6:30pm and Ends at 0:30am
 * [Kyoto Nishijin Machiya Studio](http://nishi-jin.net/) (in Japanese)
-* Fee: About 3,000 yen
+* Fee: 3,000 yen
 
 LiveCoding is a new boom that programmers show their programming techniques live with communication and develop a new software.
 It is amusing that we watch a super technique of a great hacker rowdy.
@@ -125,10 +124,6 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
 >
 > LiveCoder: (///
 
-<!--
-STUB
--->
-
 ## CONTENTS
 * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
     * The ultimate web application platform Sinatra/Google App Engine for Java/JRuby
@@ -138,10 +133,3 @@ STUB
     * Powered by Vim, C, Windows XP Pro and Let's note
 * *Title* with [name](uri)
     * Powered by Something
-
-<!--
-STUB
-## CALL FOR LIVECODERS
-## Google Android Hackathon
-### NOTES
--->
