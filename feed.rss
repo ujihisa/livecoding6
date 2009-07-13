@@ -10,6 +10,37 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>e5fda93f8556997e7e5b8080f75fba3f237cdc29</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Fixed link
+
+diff --git a/README.md b/README.md
+index 2abf7f0..1bac7e8 100644
+--- a/README.md
++++ b/README.md
+@@ -96,10 +96,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+ 
+ ## 感想記事
+-* http://d.hatena.ne.jp/murase_syuka/20090712/1247402646
+-* http://d.hatena.ne.jp/hitode909/20090711/1247336635
+-* http://imoz.jp/2009/07/livecoding/
+-* http://d.hatena.ne.jp/raito3/20090712/1247406886
++* &lt;http://d.hatena.ne.jp/murase_syuka/20090712/1247402646&gt;
++* &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
++* &lt;http://imoz.jp/2009/07/livecoding/&gt;
++* &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt;
+ 
+ 
+ ----
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 11:00:51 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 11:00:51 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>5319ee50fb60ec4449fa219f3569b4ee02d1f1e4</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
