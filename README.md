@@ -103,6 +103,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * <http://imoz.jp/2009/07/livecoding/> by imo
 * <http://d.hatena.ne.jp/raito3/20090712/1247406886> by raito
 * <http://android.g.hatena.ne.jp/n4_t/20090711> by naoya_t
+* <http://d.hatena.ne.jp/mollifier/20090713/p1> by mollifier
 
 ----
 
