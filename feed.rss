@@ -10,6 +10,38 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>e4da41dfc7c1e65f626058076193732f5d8d7b37</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added more trackback
+
+diff --git a/README.md b/README.md
+index 1bac7e8..5291800 100644
+--- a/README.md
++++ b/README.md
+@@ -96,10 +96,11 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
+ 
+ ## 感想記事
+-* &lt;http://d.hatena.ne.jp/murase_syuka/20090712/1247402646&gt;
+-* &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt;
+-* &lt;http://imoz.jp/2009/07/livecoding/&gt;
+-* &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt;
++* &lt;http://ujihisa.blogspot.com/2009/07/livecoding6-was-successfully-hosted-by.html&gt; by ujihisa
++* &lt;http://d.hatena.ne.jp/murase_syuka/20090712/1247402646&gt; by murase
++* &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt; by hitode909
++* &lt;http://imoz.jp/2009/07/livecoding/&gt; by imo
++* &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+ 
+ 
+ ----
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 21:16:17 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 21:16:17 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>e5fda93f8556997e7e5b8080f75fba3f237cdc29</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
