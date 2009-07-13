@@ -96,10 +96,10 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * 同じ日の昼間に[OSC2009関西](http://www.ospn.jp/osc2009-kansai/)が開催されています。5pmに終了してそのままその足でLiveCoding#6に来ることが可能です。
 
 ## 感想記事
-* http://d.hatena.ne.jp/murase_syuka/20090712/1247402646
-* http://d.hatena.ne.jp/hitode909/20090711/1247336635
-* http://imoz.jp/2009/07/livecoding/
-* http://d.hatena.ne.jp/raito3/20090712/1247406886
+* <http://d.hatena.ne.jp/murase_syuka/20090712/1247402646>
+* <http://d.hatena.ne.jp/hitode909/20090711/1247336635>
+* <http://imoz.jp/2009/07/livecoding/>
+* <http://d.hatena.ne.jp/raito3/20090712/1247406886>
 
 
 ----
