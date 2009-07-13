@@ -10,6 +10,73 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>b8feccde3073eb50862c7ac896c919b021a5d6b5</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    add trackback
+
+diff --git a/README.md b/README.md
+index 63eb667..ab6ca55 100644
+--- a/README.md
++++ b/README.md
+@@ -103,6 +103,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://imoz.jp/2009/07/livecoding/&gt; by imo
+ * &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+ * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
++* &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
+ 
+ ----
+ 
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 22:25:54 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 22:25:54 +0900 2009</dc:date>
+    </item>
+    
+    <item>
+      <title>68eb744b1db2785cda2c78f5942bd36bbb7f3df6</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    adding naoya_t's blog entry
+
+diff --git a/README.md b/README.md
+index 5291800..63eb667 100644
+--- a/README.md
++++ b/README.md
+@@ -26,7 +26,8 @@ Subscribe me &lt;a href=&quot;feed.rss&quot;&gt;&lt;img alt=&quot;feed&quot; src=&quot;http://assets1.github.com/i
+     * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+ 
+ * *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+-    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
++    * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt;
++    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？→Androidでエアホッケーを作ります
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
+ * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
+@@ -101,7 +102,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://d.hatena.ne.jp/hitode909/20090711/1247336635&gt; by hitode909
+ * &lt;http://imoz.jp/2009/07/livecoding/&gt; by imo
+ * &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+-
++* &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+ 
+ ----
+ 
+@@ -151,6 +152,7 @@ And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
+     * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
+ 
+ * *Something with Android* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
++    * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt;
+     * Produce something as an Android app (and then will continue developing it at the Android Hackathon)
+     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
+ 
+
+</pre>]]></description>
+      <pubDate>Mon Jul 13 21:32:14 +0900 2009</pubDate>
+      <dc:date>Mon Jul 13 21:32:14 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>e4da41dfc7c1e65f626058076193732f5d8d7b37</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
