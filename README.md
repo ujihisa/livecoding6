@@ -26,7 +26,8 @@ Subscribe me <a href="feed.rss"><img alt="feed" src="http://assets1.github.com/i
     * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
 
 * *Androidで何か作る* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
-    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
+    * <http://android.g.hatena.ne.jp/n4_t/20090711>
+    * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？→Androidでエアホッケーを作ります
     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
 
 * *Google App Engine on Sinatra* with [ujihisa](http://ujihisa.blogspot.com/)
@@ -101,7 +102,8 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * <http://d.hatena.ne.jp/hitode909/20090711/1247336635> by hitode909
 * <http://imoz.jp/2009/07/livecoding/> by imo
 * <http://d.hatena.ne.jp/raito3/20090712/1247406886> by raito
-
+* <http://android.g.hatena.ne.jp/n4_t/20090711> by naoya_t
+* <http://d.hatena.ne.jp/mollifier/20090713/p1> by mollifier
 
 ----
 
@@ -151,6 +153,7 @@ And "Play-by-Play commentaries" are always explaining what he/she is doing.
     * Powered by Firefox 3.5, Vim, Rascut, Windows7(7100) + Debian/GNU Linux and ThinkPad X61Tablet
 
 * *Something with Android* with [naoya_t](http://blog.livedoor.jp/naoya_t/)
+    * <http://android.g.hatena.ne.jp/n4_t/20090711>
     * Produce something as an Android app (and then will continue developing it at the Android Hackathon)
     * Powered by Emacs, Eclipse, Android SDK/NDK, Java, gcc, Mac OS X, MacBook Pro and HKK Lite Shiro
 
