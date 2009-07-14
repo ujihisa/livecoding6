@@ -10,6 +10,30 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>4e012f492820862252a5aa5564c606466e0b6539</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    Added sixeight
+
+diff --git a/README.md b/README.md
+index e5feb0e..8cf63e9 100644
+--- a/README.md
++++ b/README.md
+@@ -104,6 +104,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://d.hatena.ne.jp/raito3/20090712/1247406886&gt; by raito
+ * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+ * &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
++* &lt;http://d.hatena.ne.jp/Sixeight/20090714&gt; by Sixeight
+ 
+ ## 写真
+ * &lt;http://www.flickr.com/photos/hitode303/sets/72157621209268033/&gt; by hitode909
+
+</pre>]]></description>
+      <pubDate>Wed Jul 15 00:11:55 +0900 2009</pubDate>
+      <dc:date>Wed Jul 15 00:11:55 +0900 2009</dc:date>
+    </item>
+    
+    <item>
       <title>7011c5f670fb87fc6db8fb78601a63e8eff36b65</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
