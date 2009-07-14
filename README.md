@@ -104,6 +104,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
 * <http://d.hatena.ne.jp/raito3/20090712/1247406886> by raito
 * <http://android.g.hatena.ne.jp/n4_t/20090711> by naoya_t
 * <http://d.hatena.ne.jp/mollifier/20090713/p1> by mollifier
+* <http://d.hatena.ne.jp/Sixeight/20090714> by Sixeight
 
 ## 写真
 * <http://www.flickr.com/photos/hitode303/sets/72157621209268033/> by hitode909
