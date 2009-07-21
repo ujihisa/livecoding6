@@ -10,6 +10,30 @@
     <description>Recent Commits to livecoding6:master with Diff</description>
     
     <item>
+      <title>72ff9045e85e7be9ceb2745c51b25897edc727d2</title>
+      <link>http://ujihisa.github.com/livecoding6/</link>
+      <description><![CDATA[<pre>
+    a
+
+diff --git a/README.md b/README.md
+index 8cf63e9..35cc103 100644
+--- a/README.md
++++ b/README.md
+@@ -105,6 +105,7 @@ LiveCoderが何を作るかについては、自分で決めた上でそれをLi
+ * &lt;http://android.g.hatena.ne.jp/n4_t/20090711&gt; by naoya_t
+ * &lt;http://d.hatena.ne.jp/mollifier/20090713/p1&gt; by mollifier
+ * &lt;http://d.hatena.ne.jp/Sixeight/20090714&gt; by Sixeight
++* &lt;http://www.kmc.gr.jp/~ohai/diary/?date=20090716&gt; by ohai
+ 
+ ## 写真
+ * &lt;http://www.flickr.com/photos/hitode303/sets/72157621209268033/&gt; by hitode909
+
+</pre>]]></description>
+      <pubDate>Mon Jul 20 23:06:17 -0700 2009</pubDate>
+      <dc:date>Mon Jul 20 23:06:17 -0700 2009</dc:date>
+    </item>
+    
+    <item>
       <title>4e012f492820862252a5aa5564c606466e0b6539</title>
       <link>http://ujihisa.github.com/livecoding6/</link>
       <description><![CDATA[<pre>
@@ -29,8 +53,8 @@ index e5feb0e..8cf63e9 100644
  * &lt;http://www.flickr.com/photos/hitode303/sets/72157621209268033/&gt; by hitode909
 
 </pre>]]></description>
-      <pubDate>Wed Jul 15 00:11:55 +0900 2009</pubDate>
-      <dc:date>Wed Jul 15 00:11:55 +0900 2009</dc:date>
+      <pubDate>Wed Jul 15 00:11:55 -0700 2009</pubDate>
+      <dc:date>Wed Jul 15 00:11:55 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -56,8 +80,8 @@ index ab6ca55..e5feb0e 100644
  # LiveCoding#6
 
 </pre>]]></description>
-      <pubDate>Tue Jul 14 15:32:01 +0900 2009</pubDate>
-      <dc:date>Tue Jul 14 15:32:01 +0900 2009</dc:date>
+      <pubDate>Tue Jul 14 15:32:01 -0700 2009</pubDate>
+      <dc:date>Tue Jul 14 15:32:01 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -80,8 +104,8 @@ index 63eb667..ab6ca55 100644
  
 
 </pre>]]></description>
-      <pubDate>Mon Jul 13 22:25:54 +0900 2009</pubDate>
-      <dc:date>Mon Jul 13 22:25:54 +0900 2009</dc:date>
+      <pubDate>Mon Jul 13 22:25:54 -0700 2009</pubDate>
+      <dc:date>Mon Jul 13 22:25:54 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -123,8 +147,8 @@ index 5291800..63eb667 100644
  
 
 </pre>]]></description>
-      <pubDate>Mon Jul 13 21:32:14 +0900 2009</pubDate>
-      <dc:date>Mon Jul 13 21:32:14 +0900 2009</dc:date>
+      <pubDate>Mon Jul 13 21:32:14 -0700 2009</pubDate>
+      <dc:date>Mon Jul 13 21:32:14 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -155,8 +179,8 @@ index 1bac7e8..5291800 100644
  ----
 
 </pre>]]></description>
-      <pubDate>Mon Jul 13 21:16:17 +0900 2009</pubDate>
-      <dc:date>Mon Jul 13 21:16:17 +0900 2009</dc:date>
+      <pubDate>Mon Jul 13 21:16:17 -0700 2009</pubDate>
+      <dc:date>Mon Jul 13 21:16:17 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -186,8 +210,8 @@ index 2abf7f0..1bac7e8 100644
  ----
 
 </pre>]]></description>
-      <pubDate>Mon Jul 13 11:00:51 +0900 2009</pubDate>
-      <dc:date>Mon Jul 13 11:00:51 +0900 2009</dc:date>
+      <pubDate>Mon Jul 13 11:00:51 -0700 2009</pubDate>
+      <dc:date>Mon Jul 13 11:00:51 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -216,8 +240,8 @@ index 4453192..2abf7f0 100644
  # LiveCoding#6
 
 </pre>]]></description>
-      <pubDate>Mon Jul 13 10:59:24 +0900 2009</pubDate>
-      <dc:date>Mon Jul 13 10:59:24 +0900 2009</dc:date>
+      <pubDate>Mon Jul 13 10:59:24 -0700 2009</pubDate>
+      <dc:date>Mon Jul 13 10:59:24 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -270,8 +294,8 @@ index fe0d386..4453192 100644
 +    * Powered by mi, php, Mac OS X and MacBook Pro
 
 </pre>]]></description>
-      <pubDate>Sun Jul 12 21:28:22 +0900 2009</pubDate>
-      <dc:date>Sun Jul 12 21:28:22 +0900 2009</dc:date>
+      <pubDate>Sun Jul 12 21:28:22 -0700 2009</pubDate>
+      <dc:date>Sun Jul 12 21:28:22 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -364,8 +388,8 @@ index 4413498..fe0d386 100644
 ---&gt;
 
 </pre>]]></description>
-      <pubDate>Sun Jul 12 21:19:41 +0900 2009</pubDate>
-      <dc:date>Sun Jul 12 21:19:41 +0900 2009</dc:date>
+      <pubDate>Sun Jul 12 21:19:41 -0700 2009</pubDate>
+      <dc:date>Sun Jul 12 21:19:41 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -393,8 +417,8 @@ index 5e11bf1..4413498 100644
      * 未来(Android Hackathon)に作るものと全く同じものを作るのはおk？
 
 </pre>]]></description>
-      <pubDate>Sat Jul 11 18:26:32 +0900 2009</pubDate>
-      <dc:date>Sat Jul 11 18:26:32 +0900 2009</dc:date>
+      <pubDate>Sat Jul 11 18:26:32 -0700 2009</pubDate>
+      <dc:date>Sat Jul 11 18:26:32 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -485,8 +509,8 @@ index 954ae3b..5e11bf1 100644
  
 
 </pre>]]></description>
-      <pubDate>Sat Jul 11 18:19:13 +0900 2009</pubDate>
-      <dc:date>Sat Jul 11 18:19:13 +0900 2009</dc:date>
+      <pubDate>Sat Jul 11 18:19:13 -0700 2009</pubDate>
+      <dc:date>Sat Jul 11 18:19:13 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -547,8 +571,8 @@ index d43fea8..954ae3b 100644
      * てきとーな記法のwikiっぽいものを作ります
 
 </pre>]]></description>
-      <pubDate>Sat Jul 11 18:18:46 +0900 2009</pubDate>
-      <dc:date>Sat Jul 11 18:18:46 +0900 2009</dc:date>
+      <pubDate>Sat Jul 11 18:18:46 -0700 2009</pubDate>
+      <dc:date>Sat Jul 11 18:18:46 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -634,8 +658,8 @@ index 6ca2acf..d43fea8 100644
  
 
 </pre>]]></description>
-      <pubDate>Fri Jul 10 17:15:33 +0900 2009</pubDate>
-      <dc:date>Fri Jul 10 17:15:33 +0900 2009</dc:date>
+      <pubDate>Fri Jul 10 17:15:33 -0700 2009</pubDate>
+      <dc:date>Fri Jul 10 17:15:33 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -660,8 +684,8 @@ index c3e839f..6ca2acf 100644
  ## Google Android Hackathon
 
 </pre>]]></description>
-      <pubDate>Fri Jul 10 16:46:31 +0900 2009</pubDate>
-      <dc:date>Fri Jul 10 16:46:31 +0900 2009</dc:date>
+      <pubDate>Fri Jul 10 16:46:31 -0700 2009</pubDate>
+      <dc:date>Fri Jul 10 16:46:31 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -691,8 +715,8 @@ index e8a06d5..c3e839f 100644
      * Powered by Something
 
 </pre>]]></description>
-      <pubDate>Fri Jul 10 16:46:23 +0900 2009</pubDate>
-      <dc:date>Fri Jul 10 16:46:23 +0900 2009</dc:date>
+      <pubDate>Fri Jul 10 16:46:23 -0700 2009</pubDate>
+      <dc:date>Fri Jul 10 16:46:23 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -725,8 +749,8 @@ index 61161b8..e8a06d5 100644
  
 
 </pre>]]></description>
-      <pubDate>Fri Jul 10 16:46:08 +0900 2009</pubDate>
-      <dc:date>Fri Jul 10 16:46:08 +0900 2009</dc:date>
+      <pubDate>Fri Jul 10 16:46:08 -0700 2009</pubDate>
+      <dc:date>Fri Jul 10 16:46:08 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -752,8 +776,8 @@ index 5b62d29..61161b8 100644
  --&gt;
 
 </pre>]]></description>
-      <pubDate>Thu Jul 09 15:03:17 +0900 2009</pubDate>
-      <dc:date>Thu Jul 09 15:03:17 +0900 2009</dc:date>
+      <pubDate>Thu Jul 09 15:03:17 -0700 2009</pubDate>
+      <dc:date>Thu Jul 09 15:03:17 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -779,8 +803,8 @@ index b513743..5b62d29 100644
  --&gt;
 
 </pre>]]></description>
-      <pubDate>Thu Jul 09 14:11:20 +0900 2009</pubDate>
-      <dc:date>Thu Jul 09 14:11:20 +0900 2009</dc:date>
+      <pubDate>Thu Jul 09 14:11:20 -0700 2009</pubDate>
+      <dc:date>Thu Jul 09 14:11:20 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -805,8 +829,8 @@ index 0a19b7c..b513743 100644
  * *未定* with [Imo](http://fbox.info/)
 
 </pre>]]></description>
-      <pubDate>Thu Jul 09 05:54:58 +0900 2009</pubDate>
-      <dc:date>Thu Jul 09 05:54:58 +0900 2009</dc:date>
+      <pubDate>Thu Jul 09 05:54:58 -0700 2009</pubDate>
+      <dc:date>Thu Jul 09 05:54:58 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -834,8 +858,8 @@ index a1dc7ea..0a19b7c 100644
  --&gt;
 
 </pre>]]></description>
-      <pubDate>Wed Jul 08 19:19:38 +0900 2009</pubDate>
-      <dc:date>Wed Jul 08 19:19:38 +0900 2009</dc:date>
+      <pubDate>Wed Jul 08 19:19:38 -0700 2009</pubDate>
+      <dc:date>Wed Jul 08 19:19:38 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -860,8 +884,8 @@ index 8ce4420..a1dc7ea 100644
  * *未定* with [Imo](http://fbox.info/)
 
 </pre>]]></description>
-      <pubDate>Wed Jul 08 19:18:11 +0900 2009</pubDate>
-      <dc:date>Wed Jul 08 19:18:11 +0900 2009</dc:date>
+      <pubDate>Wed Jul 08 19:18:11 -0700 2009</pubDate>
+      <dc:date>Wed Jul 08 19:18:11 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -888,8 +912,8 @@ index f4fd789..8ce4420 100644
  --&gt;
 
 </pre>]]></description>
-      <pubDate>Wed Jul 08 18:13:32 +0900 2009</pubDate>
-      <dc:date>Wed Jul 08 18:13:32 +0900 2009</dc:date>
+      <pubDate>Wed Jul 08 18:13:32 -0700 2009</pubDate>
+      <dc:date>Wed Jul 08 18:13:32 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -945,8 +969,8 @@ index 989a2d3..f4fd789 100644
  And &quot;Play-by-Play commentaries&quot; are always explaining what he/she is doing.
 
 </pre>]]></description>
-      <pubDate>Sun Jul 05 20:52:01 +0900 2009</pubDate>
-      <dc:date>Sun Jul 05 20:52:01 +0900 2009</dc:date>
+      <pubDate>Sun Jul 05 20:52:01 -0700 2009</pubDate>
+      <dc:date>Sun Jul 05 20:52:01 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -970,8 +994,8 @@ index f60f10b..989a2d3 100644
  ## 概要
 
 </pre>]]></description>
-      <pubDate>Sun Jul 05 16:55:20 +0900 2009</pubDate>
-      <dc:date>Sun Jul 05 16:55:20 +0900 2009</dc:date>
+      <pubDate>Sun Jul 05 16:55:20 -0700 2009</pubDate>
+      <dc:date>Sun Jul 05 16:55:20 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1022,8 +1046,8 @@ index 173851f..f60f10b 100644
  
 
 </pre>]]></description>
-      <pubDate>Sat Jul 04 13:16:37 +0900 2009</pubDate>
-      <dc:date>Sat Jul 04 13:16:37 +0900 2009</dc:date>
+      <pubDate>Sat Jul 04 13:16:37 -0700 2009</pubDate>
+      <dc:date>Sat Jul 04 13:16:37 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1049,8 +1073,8 @@ index f4cb4ac..173851f 100644
  * [京都西陣町家スタジオ](http://nishi-jin.net/)
 
 </pre>]]></description>
-      <pubDate>Fri Jul 03 23:23:42 +0900 2009</pubDate>
-      <dc:date>Fri Jul 03 23:23:42 +0900 2009</dc:date>
+      <pubDate>Fri Jul 03 23:23:42 -0700 2009</pubDate>
+      <dc:date>Fri Jul 03 23:23:42 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1142,8 +1166,8 @@ index 43345bf..f4cb4ac 100644
  How the LiveCoder is coding is completely going on screen with a projector.
 
 </pre>]]></description>
-      <pubDate>Fri Jul 03 23:09:29 +0900 2009</pubDate>
-      <dc:date>Fri Jul 03 23:09:29 +0900 2009</dc:date>
+      <pubDate>Fri Jul 03 23:09:29 -0700 2009</pubDate>
+      <dc:date>Fri Jul 03 23:09:29 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1201,8 +1225,8 @@ index 9d11bb2..43345bf 100644
 +--&gt;
 
 </pre>]]></description>
-      <pubDate>Fri Jul 03 17:55:57 +0900 2009</pubDate>
-      <dc:date>Fri Jul 03 17:55:57 +0900 2009</dc:date>
+      <pubDate>Fri Jul 03 17:55:57 -0700 2009</pubDate>
+      <dc:date>Fri Jul 03 17:55:57 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1227,8 +1251,8 @@ index d877401..9d11bb2 100644
  LiveCoderが何を作るかについては、自分で決めた上でそれをLiveCoding前に告知します。
 
 </pre>]]></description>
-      <pubDate>Fri Jul 03 17:42:46 +0900 2009</pubDate>
-      <dc:date>Fri Jul 03 17:42:46 +0900 2009</dc:date>
+      <pubDate>Fri Jul 03 17:42:46 -0700 2009</pubDate>
+      <dc:date>Fri Jul 03 17:42:46 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1267,8 +1291,8 @@ index 7240425..d877401 100644
  
 
 </pre>]]></description>
-      <pubDate>Fri Jul 03 17:41:07 +0900 2009</pubDate>
-      <dc:date>Fri Jul 03 17:41:07 +0900 2009</dc:date>
+      <pubDate>Fri Jul 03 17:41:07 -0700 2009</pubDate>
+      <dc:date>Fri Jul 03 17:41:07 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1310,8 +1334,8 @@ index c35cd84..7240425 100644
  * LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
 
 </pre>]]></description>
-      <pubDate>Wed Jul 01 23:20:54 +0900 2009</pubDate>
-      <dc:date>Wed Jul 01 23:20:54 +0900 2009</dc:date>
+      <pubDate>Wed Jul 01 23:20:54 -0700 2009</pubDate>
+      <dc:date>Wed Jul 01 23:20:54 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1335,8 +1359,8 @@ index 7e9c011..c35cd84 100644
 +* LiveCoder以外の一般参加の応募はまだ受け付けておりません。もうしばらくお待ちください
 
 </pre>]]></description>
-      <pubDate>Wed Jul 01 10:57:58 +0900 2009</pubDate>
-      <dc:date>Wed Jul 01 10:57:58 +0900 2009</dc:date>
+      <pubDate>Wed Jul 01 10:57:58 -0700 2009</pubDate>
+      <dc:date>Wed Jul 01 10:57:58 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1361,8 +1385,8 @@ index 94a74d2..7e9c011 100644
      * Powered by Something
 
 </pre>]]></description>
-      <pubDate>Wed Jul 01 01:26:47 +0900 2009</pubDate>
-      <dc:date>Wed Jul 01 01:26:47 +0900 2009</dc:date>
+      <pubDate>Wed Jul 01 01:26:47 -0700 2009</pubDate>
+      <dc:date>Wed Jul 01 01:26:47 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1389,8 +1413,8 @@ index 7fd0f91..94a74d2 100644
  
 
 </pre>]]></description>
-      <pubDate>Wed Jul 01 01:08:55 +0900 2009</pubDate>
-      <dc:date>Wed Jul 01 01:08:55 +0900 2009</dc:date>
+      <pubDate>Wed Jul 01 01:08:55 -0700 2009</pubDate>
+      <dc:date>Wed Jul 01 01:08:55 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1415,8 +1439,8 @@ index cf75a37..7fd0f91 100644
  
 
 </pre>]]></description>
-      <pubDate>Wed Jul 01 01:05:00 +0900 2009</pubDate>
-      <dc:date>Wed Jul 01 01:05:00 +0900 2009</dc:date>
+      <pubDate>Wed Jul 01 01:05:00 -0700 2009</pubDate>
+      <dc:date>Wed Jul 01 01:05:00 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1451,8 +1475,8 @@ index aa4741d..cf75a37 100644
  
 
 </pre>]]></description>
-      <pubDate>Wed Jul 01 00:35:09 +0900 2009</pubDate>
-      <dc:date>Wed Jul 01 00:35:09 +0900 2009</dc:date>
+      <pubDate>Wed Jul 01 00:35:09 -0700 2009</pubDate>
+      <dc:date>Wed Jul 01 00:35:09 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1483,8 +1507,8 @@ index ddd312a..aa4741d 100644
 +    * Powered by Something
 
 </pre>]]></description>
-      <pubDate>Tue Jun 30 16:43:21 +0900 2009</pubDate>
-      <dc:date>Tue Jun 30 16:43:21 +0900 2009</dc:date>
+      <pubDate>Tue Jun 30 16:43:21 -0700 2009</pubDate>
+      <dc:date>Tue Jun 30 16:43:21 -0700 2009</dc:date>
     </item>
     
     <item>
@@ -1515,8 +1539,8 @@ index 0000000..ddd312a
 +    pull requestを送信してください。
 +2.  一度pull requestを送信すると自動的にcommit bitが配布されます。以後はこのレポジトリにpushしてください。
 </pre>]]></description>
-      <pubDate>Tue Jun 30 10:41:27 +0900 2009</pubDate>
-      <dc:date>Tue Jun 30 10:41:27 +0900 2009</dc:date>
+      <pubDate>Tue Jun 30 10:41:27 -0700 2009</pubDate>
+      <dc:date>Tue Jun 30 10:41:27 -0700 2009</dc:date>
     </item>
     
   </channel>
